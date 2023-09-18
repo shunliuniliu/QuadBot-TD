@@ -1,7 +1,7 @@
 # QuadBot-TD
 QuadBot-TA
 
-![img](https://github.com/shunliuniliu/QuadBot-TD/blob/main/QuadBot-TA.jpg)
+<img src="https://github.com/shunliuniliu/QuadBot-TD/blob/main/QuadBot-TA.jpg">
 
 QuadBot-TD
 
