@@ -5,7 +5,8 @@ QuadBot-TA
 
 QuadBot-TD
 
-!<img src="https://github.com/shunliuniliu/QuadBot-TD/blob/main/QuadBot-TD.jpg" width="210px">
+!<img src="https://github.com/shunliuniliu/QuadBot-TD/blob/main/QuadBot-TD.jpg">
 
 QuadBot-TAD
-!<img src="https://github.com/shunliuniliu/QuadBot-TD/blob/main/QuadBot-TAD.jpg" width="210px">
+
+!<img src="https://github.com/shunliuniliu/QuadBot-TD/blob/main/QuadBot-TAD.jpg">
