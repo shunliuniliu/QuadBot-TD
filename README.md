@@ -1,9 +1,9 @@
 # QuadBot-TD
 QuadBot-TA
-("https://github.com/shunliuniliu/QuadBot-TD/blob/main/QuadBot-TA.jpg")
+<img src="https://github.com/shunliuniliu/QuadBot-TD/blob/main/QuadBot-TA.jpg" width="210px">
 
 QuadBot-TD
-("https://github.com/shunliuniliu/QuadBot-TD/blob/main/QuadBot-TD.jpg")
+<img src="https://github.com/shunliuniliu/QuadBot-TD/blob/main/QuadBot-TD.jpg" width="210px">
 
 QuadBot-TAD
-("https://github.com/shunliuniliu/QuadBot-TD/blob/main/QuadBot-TAD.jpg")
+<img src="https://github.com/shunliuniliu/QuadBot-TD/blob/main/QuadBot-TAD.jpg" width="210px">
